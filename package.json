@@ -21,5 +21,6 @@
   },
   "bugs": {
     "url": "https://github.com/olivM/jQuery-Selectbox/issues"
-  }
+  },
+  "main": "jquery-selectbox.js"
 }
